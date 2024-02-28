@@ -80,6 +80,10 @@ h2 {
   margin: 20px 0;
 }
 
+.hero-menu {
+  background-image: url('https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/77fadcd3-00a6-4a0d-8437-e2d0cd9e9a3e/header_product-name2.jpg');
+}
+
 .section-1 {
   padding: 50px;
   display: flex;
